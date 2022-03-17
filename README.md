@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @Queru1ous
-- 👀 I’m interested in GameDev (Unity, EU4), Desktop App Development (Java, C#, C++) and somewhat in Front-End
-- 🌱 I’m currently learning JavaScript so I can find a job...
-- 👯 I’m looking to collaborate on some simple stuff
+What are you doing here
